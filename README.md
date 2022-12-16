@@ -15,7 +15,7 @@ A Jupyter notebook using Python to implement dimension reduction and clustering.
 
 * **codes.ipynb**
 
-A Jupyter notebook using Python to make interactive visualization. It requires installing plotly, matplotlib pandas, numpy, scipy, and ipywidgets to run.
+A Jupyter notebook using Python to make interactive visualization. It requires installing plotly, matplotlib pandas, numpy, scipy, and ipywidgets to run. The graph will be generated after the cells run sequentially.
 
 * **requirements.txt**
 
