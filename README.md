@@ -1,6 +1,6 @@
 # CS765-project
 
-This repository contains the dataset and codes suppporting our dimension reduction, clustering, and visualization of American Time Usage Survey (ATUS) data. The final visualization product can be found from the following site:
+This repository contains the dataset and codes suppporting our dimension reduction, clustering, and visualization of American Time Usage Survey (ATUS) data. The final visualization product is available from the following site:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/x-zhe/CS765_project/HEAD?urlpath=voila%2Frender%2Fcodes.ipynb)
 
 Some explanations of what is here:
