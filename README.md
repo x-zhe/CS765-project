@@ -20,3 +20,7 @@ A Jupyter notebook using Python to make interactive visualization. It requires i
 * **requirements.txt**
 
 A list of required packages to support deployment of the interactive visualization on MyBinder.org.
+
+* **COMPSCI_765_artifact_steps.docx**
+
+Instructions of running the source codes.
