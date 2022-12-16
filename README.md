@@ -7,7 +7,7 @@ Some explanations of what is here:
 
 * **atus_embed_cluster.csv**
 
-The ATUS dataset with UMAP embeddings and clustering results. Original data downloaded from https://pages.graphics.cs.wisc.edu/765-22/datasets/atus/.
+The ATUS dataset with UMAP embeddings and clustering results. The original data was downloaded from https://pages.graphics.cs.wisc.edu/765-22/datasets/atus/.
 
 * **umap_trying2_for_artifact.ipynb**
 
